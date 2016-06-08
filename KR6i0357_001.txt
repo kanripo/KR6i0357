@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:14.423924
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:22
 #+TITLE: 相續解脫如來所作隨順處了義經
 #+PROPERTY: CBETA_ID T16n0679
 #+PROPERTY: ID KR6i0357
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 679
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0357_T_000-0718a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0357_T_001-0718a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.679[Nos.675(11),676(8)]¶
-
- 《相續解脫如來所作隨順處了義¶
+No. 679 [Nos. 675(11), 676(8)]¶
+《相續解脫如來所作隨順處了義¶
 經》¶
 ¶
 
@@ -212,9 +211,9 @@ No.679[Nos.675(11),676(8)]¶
 　煩惱不染著，
 　畢竟快清淨，¶
 　永離諸虛偽，
-　無為常住身。」
+　無為常住身。」」
 #+END_VERSE
-」¶
+¶
 
 爾時文殊師利白佛言：「世尊！如來心起有何¶
 相？」
